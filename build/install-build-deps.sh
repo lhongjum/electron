@@ -226,6 +226,7 @@ common_lib_list="\
   libxinerama1
   libxrandr2
   libxrender1
+  libxshmfence1
   libxtst6
   zlib1g
 "
